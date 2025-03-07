@@ -1,19 +1,27 @@
-# 🎈 Blank app template
+# 🏥 Disease Prediction using Machine Learning  
 
-A simple Streamlit app template for you to modify!
+## 📌 Overview  
+This project uses **Streamlit** to create a web-based disease prediction system. It allows users to input test results, which are processed using **machine learning models** to predict multiple diseases, including:  
+✅ **Diabetes**  
+✅ **Kidney Disease**  
+✅ **Parkinson's Syndrome**  
+✅ **ADHD Syndrome**  
+✅ **Cancer**  
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+## 🚀 Features  
+- User-friendly **Streamlit interface**  
+- **Machine Learning models** for accurate predictions  
+- Secure **user authentication** (if implemented)  
+- Supports multiple diseases  
 
-### How to run it on your own machine
+## 🛠️ Technologies Used  
+- **Python**  
+- **Streamlit**  
+- **Scikit-learn**  
+- **Pandas & NumPy**  
 
-1. Install the requirements
-
-   ```
-   $ pip install -r requirements.txt
-   ```
-
-2. Run the app
-
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+## 📥 Installation & Setup  
+1. Clone this repository:  
+   ```sh
+   git clone https://github.com/your-username/disease-prediction.git
+   cd disease-prediction
